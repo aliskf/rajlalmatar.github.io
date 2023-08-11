@@ -1,4 +1,4 @@
-## Hey This is me Ali!!
+## Hey this is Ali!!
 
 Machine Learning and AI researcher 
 
