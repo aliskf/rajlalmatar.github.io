@@ -5,6 +5,8 @@ Machine Learning and AI researcher
 ### Contact Info
 [Linkedin](https://www.linkedin.com/in/alieskef/)
 
+[BLog](https://blog.aliskf.com/)
+
 [Upwork](https://www.upwork.com/freelancers/~010df3d7dbf21af70a)
 
 [Twitter](https://www.twitter.com/alieskef/)
