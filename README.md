@@ -3,9 +3,12 @@
 Machine Learning and AI researcher 
 
 ### Contact Info
+
+[Github](https://github.com/aliskf/)
+
 [Linkedin](https://www.linkedin.com/in/alieskef/)
 
-[BLog](https://blog.aliskf.com/)
+[Blog](https://blog.aliskf.com/)
 
 [Upwork](https://www.upwork.com/freelancers/~010df3d7dbf21af70a)
 
