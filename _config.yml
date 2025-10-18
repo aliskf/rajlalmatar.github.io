@@ -15,7 +15,3 @@ linkedin_username: alieskef
 # google_analytics: UA-XXXXXXXXX-X
 
 # Exclude from processing
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
