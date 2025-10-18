@@ -1,2 +1,21 @@
 theme: jekyll-theme-minimal
 google_analytics: UA-84348257-1
+title: Ali Iskif
+description: Machine Learning Engineer • Software Developer • Computer Science Lecturer
+show_downloads: false
+
+# Additional theme settings
+logo: # Add path to your profile photo if you have one (e.g., /assets/img/profile.jpg)
+
+# Social links (optional - uncomment and customize)
+github_username: aliskf
+linkedin_username: alieskef
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
