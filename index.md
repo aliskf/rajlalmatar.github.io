@@ -1,7 +1,3 @@
----
-layout: default
-title: Ali Iskif - Machine Learning Engineer & Computer Science Lecturer
----
 
 # Ali Iskif
 
