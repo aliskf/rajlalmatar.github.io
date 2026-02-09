@@ -308,9 +308,16 @@ document.addEventListener('DOMContentLoaded', () => {
         scrollObserver.observe(item);
     });
     
-    // Skill categories
+    // Skill categories (legacy)
     const skillCategories = document.querySelectorAll('.skill-category');
     skillCategories.forEach((category, index) => {
+        category.style.transitionDelay = `${index * 0.1}s`;
+        scrollObserver.observe(category);
+    });
+    
+    // Stack categories (new icon grid)
+    const stackCategories = document.querySelectorAll('.stack-category');
+    stackCategories.forEach((category, index) => {
         category.style.transitionDelay = `${index * 0.1}s`;
         scrollObserver.observe(category);
     });
